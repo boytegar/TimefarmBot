@@ -27,3 +27,4 @@ Install with python
 - Auto Claim daily
 - Auto Refresh Token
 - Auto Checkin
+- Auto Upgrade Booster
